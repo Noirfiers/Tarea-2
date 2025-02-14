@@ -1,0 +1,5 @@
+Haga un programa que de acuerdo al salario calculará el aumento
+De 0 a 4999 aumentará 20%
+De 5000 a 9999 aumentará 10 %
+De 10000 a 14999 aumentará 5 %
+De 15000 adelante 3% 
