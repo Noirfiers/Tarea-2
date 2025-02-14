@@ -1,0 +1,12 @@
+Implemente las siguientes funciones enteras:
+a) La función centigrados que devuelve la equivalencia en grados
+Centígrados de una temperatura en grados Fahrenheit.
+b) La función fahrenheit que devuelve la equivalencia en grados
+Fahrenheit de una temperatura en grados Centígrados.
+c) Utilice estas funciones para escribir un programa que imprima
+gráficos que muestren los equivalentes en grados Fahrenheit de todas
+las temperaturas en grados Centígrados, desde 0 hasta 100, y los
+equivalentes en grados Centígrados de todas las temperaturas en
+grados Fahrenheit, desde 32 hasta 212.
+Imprima los resultados en un formato tabular ordenado que minimice el
+número de líneas de salida, al tiempo que permanezca legible.
