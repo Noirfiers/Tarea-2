@@ -1,0 +1,5 @@
+Haga un programa que diga la cantidad de cifras si es mayor a
+0 y menor a 10 dirá uno, si es mayor o igual a 10 y menor a 100
+mostrará dos, si es mayor o igual a 100 o menor a 1000 mostrará tres, si
+es mayor o igual a 1000 y menor a 10000 mostrará 4, caso contrario
+mostrará mayor a 5.
