@@ -1,0 +1,4 @@
+Haga un programa para promediar 3 notas, si el estudiante promedia
+menos de 70 Reprueba, si es menor o igual a 80 bueno, si es menor o
+igual a 90 muy bueno, si es menor o igual a 100 sobresaliente, caso
+contrario error. Resuélvalo con switch.
